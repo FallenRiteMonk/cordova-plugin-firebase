@@ -5,16 +5,22 @@ This update was done to test phone authentication in iOS. All other methods have
 This plugin brings push notifications, analytics, event tracking, crash reporting and more from Google Firebase to your Cordova project!
 Android and iOS supported.
 
+Donations are welcome and will go towards further development of this project. Use the wallet address below to donate.
+
+BTC: 1JuXhHMCPHXT2fDfSRUTef9TpE2D67sc9f
+
+Thank you for your support!
+
 ## Installation
 See npm package for versions - https://www.npmjs.com/package/cordova-plugin-firebase
 
 Install the plugin by adding it your project's config.xml:
 ```
-<plugin name="cordova-plugin-firebase" spec="0.1.23" />
+<plugin name="cordova-plugin-firebase" spec="0.1.24" />
 ```
 or by running:
 ```
-cordova plugin add cordova-plugin-firebase@0.1.23 --save
+cordova plugin add cordova-plugin-firebase@0.1.24 --save
 ```
 Download your Firebase configuration files, GoogleService-Info.plist for ios and google-services.json for android, and place them in the root folder of your cordova project:
 
